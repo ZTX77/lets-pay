@@ -91,17 +91,18 @@ code {
 }
 #specialValueInput {
   padding-left: 12px;
-  width: 12%;
+  width: 18%;
   color:#0684f3;
 }
 
 #divider {
-  width: 6%;
+  width: 8%;
 }
 #finalAmount {
-  width: 15%;
+  width: 18%;
   font-size: larger;
   margin-left: 16px;
+  margin-right: 10px;
 }
 
 .totalToPay {;
