@@ -62,7 +62,7 @@ const App = () => {
     return (
     <div className='App'>
         <div className='componentContainer'>
-            <RowComponent labelText='AAA'
+            <RowComponent labelText='Net'
                           name='aValue'
                           nameSpecial='aSpecial'
                           value={aValue}
@@ -71,7 +71,7 @@ const App = () => {
                           onChangeSpecial={e => dispatch({type:'userInput', fieldName:'aSpecial', value: e.currentTarget.value})}
                           finalAmount = {aTotal}
             />
-            <RowComponent labelText='BBBBBBBBBBBB'
+            <RowComponent labelText='Villany'
                           name='bValue'
                           nameSpecial='bSpecial'
                           value={bValue}
@@ -80,7 +80,7 @@ const App = () => {
                           onChangeSpecial={e => dispatch({type:'userInput', fieldName:'bSpecial', value: e.currentTarget.value})}
                           finalAmount = {bTotal}
             />
-            <RowComponent labelText='CCCCCCCCCCCC'
+            <RowComponent labelText='Gáz'
                           name='cValue'
                           nameSpecial='cSpecial'
                           value={cValue}
@@ -89,7 +89,7 @@ const App = () => {
                           onChangeSpecial={e => dispatch({type:'userInput', fieldName:'cSpecial', value: e.currentTarget.value})}
                           finalAmount = {cTotal}
             />
-            <RowComponent labelText='DDDDDDDDDDDD'
+            <RowComponent labelText='Közköltség'
                           name='dValue'
                           nameSpecial='dSpecial'
                           value={dValue}
@@ -98,7 +98,7 @@ const App = () => {
                           onChangeSpecial={e => dispatch({type:'userInput', fieldName:'dSpecial', value: e.currentTarget.value})}
                           finalAmount = {dTotal}
             />
-            <RowComponent labelText='EEEEEEEEEEEE'
+            <RowComponent labelText='Közös'
                           name='eValue'
                           nameSpecial='eSpecial'
                           value={eValue}
