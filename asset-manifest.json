@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/lets-pay/static/css/main.1bae4dfe.chunk.css",
+    "main.js": "/lets-pay/static/js/main.02b80f3b.chunk.js",
+    "main.js.map": "/lets-pay/static/js/main.02b80f3b.chunk.js.map",
+    "runtime~main.js": "/lets-pay/static/js/runtime~main.311cf2ca.js",
+    "runtime~main.js.map": "/lets-pay/static/js/runtime~main.311cf2ca.js.map",
+    "static/js/2.beb5f84e.chunk.js": "/lets-pay/static/js/2.beb5f84e.chunk.js",
+    "static/js/2.beb5f84e.chunk.js.map": "/lets-pay/static/js/2.beb5f84e.chunk.js.map",
+    "index.html": "/lets-pay/index.html",
+    "precache-manifest.d2b1451437ba06d8181a63afcba5c4f4.js": "/lets-pay/precache-manifest.d2b1451437ba06d8181a63afcba5c4f4.js",
+    "service-worker.js": "/lets-pay/service-worker.js",
+    "static/css/main.1bae4dfe.chunk.css.map": "/lets-pay/static/css/main.1bae4dfe.chunk.css.map",
+    "static/media/index.css": "/lets-pay/static/media/blue-nebula.785719ac.jpg"
+  }
+}
