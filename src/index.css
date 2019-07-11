@@ -108,7 +108,7 @@ code {
 .totalToPay {;
   background: #07575b;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   justify-content: center;
   align-items: center;
   padding: 10px;
@@ -116,4 +116,18 @@ code {
   font-size: xx-large;
   color: white;
   opacity: 0.88;
+}
+.totalToPay .totalText {
+  display: flex;
+  align-items: center;
+  width: 95%;
+  justify-content: flex-end;
+  margin-right: 10px;
+}
+.totalToPay i {
+  width: 5%;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
 }
